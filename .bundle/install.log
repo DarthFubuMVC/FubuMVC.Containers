@@ -1,0 +1,7 @@
+# Logfile created on 2014-03-03 06:27:44 -0600 by logger.rb/31641
+I, [2014-03-03T06:27:44.366210 #10868]  INFO -- : 0:  rake (10.1.1) from C:/Ruby193/lib/ruby/gems/1.9.1/specifications/rake-10.1.1.gemspec
+I, [2014-03-03T06:27:44.367187 #10868]  INFO -- : 0:  bottles (2.1.0.584) from C:/Ruby193/lib/ruby/gems/1.9.1/specifications/bottles-2.1.0.584.gemspec
+I, [2014-03-03T06:27:44.369140 #10868]  INFO -- : 0:  bundler (1.5.1) from C:/Ruby193/lib/ruby/gems/1.9.1/specifications/bundler-1.5.1.gemspec
+I, [2014-03-03T06:27:44.370117 #10868]  INFO -- : 0:  fubudocs (0.9.9.51022) from C:/Ruby193/lib/ruby/gems/1.9.1/specifications/fubudocs-0.9.9.51022.gemspec
+I, [2014-03-03T06:27:44.371093 #10868]  INFO -- : 0:  ripple-cli (2.3.4.151) from C:/Ruby193/lib/ruby/gems/1.9.1/specifications/ripple-cli-2.3.4.151.gemspec
+I, [2014-03-03T06:27:44.373046 #10868]  INFO -- : 0:  fuburake (0.9.5.37) from C:/Ruby193/lib/ruby/gems/1.9.1/specifications/fuburake-0.9.5.37.gemspec
