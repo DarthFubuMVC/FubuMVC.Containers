@@ -160,7 +160,7 @@ namespace FubuMVC.Autofac.Testing.Internals
         [Test]
         public void should_be_able_to_pull_all_of_the_route_behaviors_out_of_the_container()
         {
-            context.Resolve<IEnumerable<IActionBehavior>>().Count().ShouldEqual(3);
+            context.Resolve<IEnumerable<IActionBehavior>>().Count().ShouldBeGreaterThan(2);
         }
 
         [Test]
